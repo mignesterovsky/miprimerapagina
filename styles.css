@@ -45,3 +45,8 @@ p {
         flex: 100%;
     }
 }
+
+.greeting {
+
+    text-align: center;
+}
